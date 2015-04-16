@@ -1,0 +1,32 @@
+<resources xmlns:xliff="http://schemas.android.com/apk/res-auto">
+    <string name="app_name">Best Before</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="content_authority">com.example.yavor.bestbefore.app</string>
+
+    <!-- Language-specific constants -->
+    <string name="today">Today</string>
+
+    <!-- For labelling tomorrow's forecast [CHAR LIMIT=15] -->
+
+    <string name="tomorrow">Tomorrow</string>
+    <!-- Date format [CHAR LIMIT=NONE] -->
+    <string name="format_full_friendly_date"><xliff:g id="month">%1$s</xliff:g>, <xliff:g id="day">%2$s</xliff:g></string>
+
+    <!-- SyncAdapter related -->
+    <string name="sync_account_type">sunshine.example.com</string>
+    <string name="title_activity_detail">DetailActivity</string>
+
+    <string name="scan">Scan</string>
+    <string name="action_add_product">Add</string>
+    <string name="title_activity_add_product">AddProductActivity</string>
+    <string name="add_product_hint_barcode">Barcode</string>
+    <string name="add_product_hint_name">Name</string>
+    <string name="add_product_hint_type">Type</string>
+    <string name="add_product_hint_best_before">Best before</string>
+    <string name="add_product_button">Add</string>
+</resources>

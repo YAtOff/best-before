@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "barcode": 11111111,
+        "name": "Salmon",
+        "type": "fish",
+        "bestBefore": "2015-04-17"
+    },
+    {
+        "id": 2,
+        "barcode": 22222222,
+        "name": "Emental",
+        "type": "diary",
+        "bestBefore": "2015-04-19"
+    },
+    {
+        "id": 3,
+        "barcode": 33333333,
+        "name": "milk",
+        "type": "diary",
+        "bestBefore": "2015-04-18"
+    },
+    {
+        "id": 4,
+        "barcode": 44444444,
+        "name": "bread",
+        "type": "bread",
+        "bestBefore": "2015-04-22"
+    }
+]
